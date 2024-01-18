@@ -1,8 +1,8 @@
 {
   "info": "",
-  "VersionCode": 3,
-  "VersionName": "1.0.1",
-  "changeLog": " ",
-  "feedbackUrl": "",
+  "VersionCode": 4,
+  "VersionName": "1.0.4",
+  "changeLog": "Some minor bug fixed",
+  "feedbackUrl": "https://forms.gle/KFud4Maz6m6dJwXK8",
   "isForceUpdateEnable": true
 }
