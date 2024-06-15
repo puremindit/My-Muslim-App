@@ -3,8 +3,8 @@
     "versionCode": 1,
     "link": "https://raw.githubusercontent.com/puremindit/My-Muslim-App/main/src/app-info.json"
   },
-    "ad": {
+  "ad": {
     "versionCode": 1,
-    "link": "https://raw.githubusercontent.com/puremindit/My-Muslim-App/main/src/ad.json"
+    "link": "https://raw.githubusercontent.com/puremindit/My-Muslim-App/main/src/ads.json"
   }
 }
