@@ -1,8 +1,8 @@
 {
   "info": "",
-  "versionCode": 17,
+  "versionCode": 20,
   "versionName": "1.0.10",
-  "changeLog": "No Ads – adverts don’t belong on a Prayer app.\nMost probability accurate prayer times\nForbidden times added\nMajor bug fixed\nPerformance enhanced.",
+  "changeLog": "কোনও বিজ্ঞাপন নেই - বিজ্ঞাপন প্রার্থনা অ্যাপের অন্তর্গত নয়।\nসর্বাধিক সম্ভাব্য সঠিক প্রার্থনা সময় নির্ণয় করা হয়েছে \nনিষিদ্ধ সময় যোগ করা হয়েছে\nকর্মক্ষমতা উন্নত করা হয়েছে।",
   "feedbackUrl": "https://forms.gle/KFud4Maz6m6dJwXK8",
   "isForceUpdateEnable": true
 }
