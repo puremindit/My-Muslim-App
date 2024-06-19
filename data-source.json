@@ -1,10 +1,10 @@
 {
   "appInfo": {
-    "versionCode": 2,
+    "versionCode": 3,
     "link": "https://raw.githubusercontent.com/puremindit/My-Muslim-App/main/src/app-info.json"
   },
   "ad": {
-    "versionCode": 2,
+    "versionCode": 3,
     "link": "https://raw.githubusercontent.com/puremindit/My-Muslim-App/main/src/ads.json"
   },
   "hijriMonth": {
