@@ -8,7 +8,12 @@
     "link": "https://raw.githubusercontent.com/puremindit/My-Muslim-App/main/src/ads.json"
   },
   "hijriMonth": {
-    "versionCode": 1,
+    "versionCode": 2,
     "link": "https://raw.githubusercontent.com/puremindit/My-Muslim-App/main/src/hijri-month.json"
-  }
+  },
+  "article": {
+    "versionCode": 1,
+    "link": "https://raw.githubusercontent.com/puremindit/My-Muslim-App/main/src/article.json"
+  },
+  "reloadPeriod": 3
 }
