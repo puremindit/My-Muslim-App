@@ -1,86 +1,86 @@
 [
   {
     "name": "Muharram",
-    "bnName": "Muharram",
-    "start": "2024-07-08",
-    "end": "2024-08-07",
-    "hijriYear": "1445"
+    "bnName": "মুহাররম",
+    "start": "2025-06-26",
+    "end": "2025-07-24",
+    "hijriYear": "1447"
   },
   {
     "name": "Safar",
-    "bnName": "Safar",
-    "start": "2024-08-08",
-    "end": "2024-09-07",
-    "hijriYear": "1445"
+    "bnName": "সফর",
+    "start": "2025-07-25",
+    "end": "2025-08-23",
+    "hijriYear": "1447"
   },
   {
     "name": "Rabi Al Awwal",
-    "bnName": "Rabi Al Awwal",
-    "start": "2023-09-17",
-    "end": "2023-10-16",
-    "hijriYear": "1445"
+    "bnName": "রবিউল আউয়াল",
+    "start": "2025-08-24",
+    "end": "2025-09-21",
+    "hijriYear": "1447"
   },
   {
     "name": "Rabi Ath-Thani",
-    "bnName": "Rabi Ath-Thani",
-    "start": "2023-10-17",
-    "end": "2023-11-15",
-    "hijriYear": "1445"
+    "bnName": "রবিউস সানি",
+    "start": "2025-09-22",
+    "end": "2025-10-21",
+    "hijriYear": "1447"
   },
   {
     "name": "Jumada Al Ula",
-    "bnName": "Jumada Al Ula",
-    "start": "2023-11-16",
-    "end": "2023-12-14",
-    "hijriYear": "1445"
+    "bnName": "জুমাদাল উলা",
+    "start": "2025-10-22",
+    "end": "2025-11-19",
+    "hijriYear": "1447"
   },
   {
     "name": "Jumada Al Akhirah",
     "bnName": "জুমাদাল আখিরা",
-    "start": "2023-12-15",
-    "end": "2024-01-13",
-    "hijriYear": "1445"
+    "start": "2025-11-20",
+    "end": "2025-12-19",
+    "hijriYear": "1447"
   },
   {
     "name": "Rajab",
     "bnName": "রজব",
-    "start": "2024-01-14",
-    "end": "2024-02-11",
-    "hijriYear": "1445"
+    "start": "2025-12-20",
+    "end": "2026-01-18",
+    "hijriYear": "1447"
   },
   {
     "name": "Sha'ban",
     "bnName": "শা'বান",
-    "start": "2024-02-12",
-    "end": "2024-03-11",
-    "hijriYear": "1445"
+    "start": "2026-01-19",
+    "end": "2026-02-17",
+    "hijriYear": "1447"
   },
   {
     "name": "Ramadan",
     "bnName": "রমাদান",
-    "start": "2024-03-12",
-    "end": "2024-04-10",
-    "hijriYear": "1445"
+    "start": "2026-02-18",
+    "end": "2026-03-19",
+    "hijriYear": "1447"
   },
   {
     "name": "Shawwal",
     "bnName": "শাওয়াল",
-    "start": "2024-04-11",
-    "end": "2024-05-09",
-    "hijriYear": "1445"
+    "start": "2026-03-20",
+    "end": "2026-04-17",
+    "hijriYear": "1447"
   },
   {
-    "name": "Dhu l-Kada ",
+    "name": "Dhu l-Qa'dah",
     "bnName": "যুল কা'দা",
-    "start": "2024-05-10",
-    "end": "2024-06-07",
-    "hijriYear": "1445"
+    "start": "2026-04-18",
+    "end": "2026-05-17",
+    "hijriYear": "1447"
   },
   {
     "name": "Dhu Al Hijjah",
     "bnName": "যুল হিজ্জা",
-    "start": "2024-06-08",
-    "end": "2024-07-07",
-    "hijriYear": "1445"
+    "start": "2026-05-18",
+    "end": "2026-06-15",
+    "hijriYear": "1447"
   }
 ]
